@@ -1,6 +1,6 @@
 # Hi, I'm Anthony 👋
 
-🎯 **Web Developer** | Passionate about building user-friendly and scalable web applications.
+🎯 **Junior Software Developer** | Passionate about building user-friendly and scalable web applications.
 
 ## 🚀 Tech Stack
 

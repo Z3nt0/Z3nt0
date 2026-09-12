@@ -12,7 +12,6 @@ frontend, backend, database, and cloud.
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nextjs,react,angular,electron,nestjs,dotnet,laravel,prisma,postgres,aws&perline=6)](https://skillicons.dev)
 
-Also: React Native · ESP32
 
 ## 🛠 Tools
 

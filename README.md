@@ -17,8 +17,6 @@ frontend, backend, database, and cloud.
 
 [![My Tools](https://skillicons.dev/icons?i=git,github,docker,vscode&perline=6)](https://skillicons.dev)
 
-Also: Jira
-
 ## 📫 Connect
 
 [![Connect](https://skillicons.dev/icons?i=linkedin,github,gmail)](https://www.ajmarquez.dev/)
